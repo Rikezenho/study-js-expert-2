@@ -1,4 +1,18 @@
+#! /usr/bin/env node
+
 /*
+    chmod +x index.js
+*/
+
+/*
+hacker-chat \
+    --username erickwendel \
+    --room sala01
+
+./index.js \
+    --username erickwendel \
+    --room sala01
+
 node index.js \
     --username erickwendel \
     --room sala01 \
