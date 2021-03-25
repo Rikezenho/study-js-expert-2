@@ -18,7 +18,7 @@
     "url": "https://github.com/Rikezenho/study-js-expert-2/issues"
   },
   "homepage": "https://github.com/Rikezenho/study-js-expert-2#readme",
-  "private": true,
+  "type": "module",
   "dependencies": {
     "blessed": "^0.1.81",
     "nodemon": "^2.0.7",
