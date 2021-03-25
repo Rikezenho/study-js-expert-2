@@ -5,8 +5,8 @@
 */
 
 /*
-npm i -g @henriquekuwai/hacker-chat-client
-npm unlink -g @henriquekuwai/hacker-chat-client
+npm i -g @rikezenho/hacker-chat-client
+npm unlink -g @rikezenho/hacker-chat-client
 
 hacker-chat \
     --username erickwendel \

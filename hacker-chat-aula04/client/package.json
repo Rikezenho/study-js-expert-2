@@ -1,6 +1,6 @@
 {
   "name": "@rikezenho/hacker-chat-client",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "type": "module",
@@ -22,5 +22,8 @@
   "license": "ISC",
   "publishConfig": {
     "access": "public"
+  },
+  "dependencies": {
+    "blessed": "^0.1.81"
   }
 }
