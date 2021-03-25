@@ -4,6 +4,7 @@
   "description": "- Aula 1: Criando interfaces em programas de linha de comando com o pacote Blessed\r - Aula 2: Trabalhando com Sockets\r - Aula 3: Atualizando dados\r - Aula 4: Criando nosso comando",
   "main": "index.js",
   "scripts": {
+    "start": "node hacker-chat-aula04/server/src/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
