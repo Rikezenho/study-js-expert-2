@@ -20,9 +20,6 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "publishConfig": {
-    "access": "public"
-  },
   "dependencies": {
     "blessed": "^0.1.81"
   }
